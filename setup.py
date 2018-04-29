@@ -1,8 +1,10 @@
+import os
+os.system('pip install cython')
 from setuptools import setup, find_packages
 from setuptools.extension import Extension
 from Cython.Build import cythonize
 import numpy
-import os
+
 import imp
 
 VERSION = imp.load_source('version', os.path.join('.', 'darkflow', 'version.py'))
