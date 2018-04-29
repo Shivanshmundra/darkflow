@@ -1,5 +1,5 @@
 import os
-os.system('pip install cython')
+os.system('pip install -r requirements.txt')
 from setuptools import setup, find_packages
 from setuptools.extension import Extension
 from Cython.Build import cythonize
