@@ -3,5 +3,5 @@ cython
 Flask
 flask
 numpy
-opencv-python
+Pillow
 tensorflow
