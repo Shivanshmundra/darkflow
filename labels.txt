@@ -1,4 +1,4 @@
+person
 aeroplane
-bicycle
-bird
-boat
+dog
+cow
