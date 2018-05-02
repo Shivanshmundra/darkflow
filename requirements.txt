@@ -1,7 +1,6 @@
 opencv-python
 cython
 Flask
-flask
 numpy
 Pillow
 tensorflow
