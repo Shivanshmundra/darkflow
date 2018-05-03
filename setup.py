@@ -69,7 +69,7 @@ setup(
 	name='darkflow',
     description='Darkflow',
     license='GPLv3',
-    url='https://github.com/thtrieu/darkflow',
+    url='https://github.com/MuLx10/darkflow',
     packages = find_packages(),
 	scripts = ['flow'],
     ext_modules = cythonize(ext_modules)
